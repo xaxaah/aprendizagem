@@ -2,6 +2,8 @@
 
 > Status do repositório: Em alimentação
 
+Para rodar o arquivo .js, por favor digite:
+
 ```
-teste
+node app.js
 ```
